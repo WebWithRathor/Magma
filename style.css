@@ -1,11 +1,11 @@
 @font-face {
     font-family: font1;
-    src: url(/font/jost-variable.ttf);
+    src: url(./font/jost-variable.ttf);
 }
 
 @font-face {
     font-family: font2;
-    src: url(/font/KFOmCnqEu92Fr1Mu4mxK.ttf);
+    src: url(./font/KFOmCnqEu92Fr1Mu4mxK.ttf);
 }
 
 * {
